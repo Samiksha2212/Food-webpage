@@ -1,0 +1,290 @@
+#custom-nav{
+     color: #323f4b;
+     font-family: "Roboto";
+     font-weight: bold;
+}
+#custom-nav1{
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+#custom-nav2{
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+#custom-nav3{
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+.bg{
+    background-image: url(https://images-ext-2.discordapp.net/external/LR3xk241kTKmmUn6T_n72-CUptbiEBN6wqost5LXx5o/%3Fw%3D740%26t%3Dst%3D1709028267~exp%3D1709028867~hmac%3D163905a6d93a7f7258d716b17e365604144b104aa86f755b2190f1c0c2030082/https/img.freepik.com/free-photo/top-view-fresh-delicious-chinese-food-dark-background_24972-2170.jpg?format=webp&width=886&height=591);
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+.banner-head{
+    color: aliceblue;
+    font-family: "roboto";
+    font-size: 45px;
+    font-weight: 300;
+}
+.banner-para{
+    color: #f5f7fa;
+    font-family: "roboto";
+    font-weight: 300;
+    font-size: 25px;
+
+}
+.custom-button{
+    background-color: #d0b200;
+    color: white;
+    width: 140px;
+    height: 45px;
+    border-width: 0px;
+    border-radius: 8px;
+    margin-right: 10px;
+
+}
+.custom-button1{
+    background-color: transparent;
+    color: white;
+    width: 140px;
+    height: 45px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #d0b200;
+    border-radius: 8px;
+}
+.why-choose {
+    background-color: white;
+    margin-top: 3%;
+}
+.why-head {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+.why-para {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.why-head1 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-style: 22px;
+    font-weight: 500;
+}
+.why-para1 {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+
+.explore-menu {
+    background-color: white;
+}
+.explore-head {
+    margin-top: 5%;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+.menu-card {
+    border-radius: 16px;
+}
+.menu-image {
+    border-radius: 16px;
+}
+img{
+    vertical-align: middle;
+    border-style: none;
+}
+.menu-head {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+.menu-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+a{
+    text-decoration: none;
+    background-color: transparent;
+}
+
+
+.bg1{
+    background-color: rgb(247, 250, 253);
+    background-size: cover;
+}
+.heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+    margin-top: 10%;
+    margin-right: 5%;
+}
+.health-discription {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    margin-right: 5%;
+    
+}
+
+.img-health{
+    margin-left: 15%;
+}
+.health-button{
+    border-width: 0px;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-radius: 8px;
+}
+
+
+.dis-img{
+    width: 270px;
+    vertical-align: middle;
+    overflow: clip;
+    margin-top: 3%;
+}
+.order-md-1{
+      order: 1;
+}
+.dis-button{
+    color: white;
+    background-color: #d0b200;
+    width: 125px;
+    height: 44px;
+    border-width: 0px;
+    border-radius: 8px;
+}
+.dis-head{
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 600;
+    margin-top: 5% ;
+}
+.dis-para{
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    margin-top: 5% ;
+}
+.payment-img{
+    width: 50px;
+    height: 50px;
+    margin-right: 30px;
+}
+
+.thank-you {
+    background-color: #fff8bd;
+    margin-top: 5%;
+    width: 100%;
+}
+.thank-head {
+    margin-top: 10%;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+.thank-para {
+    margin-top: 0.2%;
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+.image {
+    width: 250px;
+}
+
+.image1 {
+    width: 250px;
+    margin-top: 10px;
+}
+.btn1 {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-radius: 8px;
+    border-width: 0px;
+}
+
+
+.container {
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.follow-content {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 3%;
+}
+.follow-icons {
+    background-color: #faf7ef;
+    width: 100px;
+    height: 100px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-left: 28px;
+    padding-top: 25px;
+    padding-right:16px ;
+    padding-bottom: 14px;
+}
+.icon {
+    color: #d0b200;
+    font-size: 45px;
+
+}
+.footer-bg {
+    margin-top: 2%;
+    background-color: #0d2436;
+    height: 250px;
+
+}
+.feed-logo {
+    width: 80px;
+    height: 70px;
+    margin-top: 4%;
+}
+
+.food-mail {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    margin-top: 20px;
+    font-size: 16px;
+}
+.food-add {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+
